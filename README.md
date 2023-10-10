@@ -3,7 +3,7 @@ This PowerBI dashboard project is designed to provide a comprehensive analysis o
 
 Features
 Visual representation of sales and profit data.
-Analysis of average delivery days.
+Analysis of average delivery days. 
 Monthly and yearly profit trends.
 Forecasting of profit for the next 15 days.
 Interactive slicers for filtering and exploring data.
